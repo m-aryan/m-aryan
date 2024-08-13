@@ -1,9 +1,10 @@
 # Hi there 👋. It's me, Aryan 😶‍🌫️
 
 
-- 🔭 I’m currently working on Thrift: Spendings Tracker App
+- 🔭 I’m currently working on **Tasks Management Tool**.
   
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Full Stack Development**
+
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aryan&theme=dark" alt="M-Aryan" /></p>
