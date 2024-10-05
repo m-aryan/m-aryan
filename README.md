@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tasks Management Tool**.
   
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development** along with **React-Native**.
 
 <br>
 
