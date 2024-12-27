@@ -1,7 +1,5 @@
 # Hi there 👋. It's me, Aryan 😶‍🌫️
 
-<img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="500">
-
 - 🔭 I’m currently working on **E-Log App for Truckers**.
                                                                  
 - 🌱 I’m currently learning **Java Full Stack Development** and **Next.js**.
