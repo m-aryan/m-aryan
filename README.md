@@ -10,8 +10,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-aryan&theme=dark" width="600" /><br /><br />
-![Aryan M's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-aryan&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-aryan&theme=dark" width="500" /><br /><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-aryan&show_icons=true&locale=en&layout=compact&theme=dark" width="350"/>
 
 <br />
