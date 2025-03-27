@@ -8,8 +8,9 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-aryan&theme=light" width="500" /><br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-aryan&theme=light" width="500" />
 
+<br />
 <br />
 
 # 💻 Tech Stack:
