@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/postman-FFA500?style=for-the-badge&logo=bitbucket&logoColor=white alt="Postman"/>
+  <img src="https://img.shields.io/badge/postman-FFA500?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Flutter-777BB4?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
