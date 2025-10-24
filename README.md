@@ -2,7 +2,7 @@
 
 - 💻 I'm a software engineer
                                                                  
-- 🌱 I’m currently learning **Java Full Stack Development** and **Node.js**.
+- 🌱 I’m currently learning **Data Engineering** and **Backend Development**.
 
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-mane/), [Medium](https://medium.com/@aryan.dev/)
 
