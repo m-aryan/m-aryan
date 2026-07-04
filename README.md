@@ -2,8 +2,6 @@
 
 - 💻 I'm a software engineer
                                                                  
-- 🌱 I’m currently learning **Data Engineering** and **Backend Development**.
-
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryan-mane/), [Medium](https://medium.com/@aryan.dev/)
 
 <br />
